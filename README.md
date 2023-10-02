@@ -20,7 +20,6 @@ Our project harnesses the capabilities of the cutting-edge YOLO-NAS (YOLO Neural
 ## Installation and Usage : 
 
 ```
-gdown "https://drive.google.com/uc?id=1AhwiIb2umnJpZwunbfCKiyjanzjX_xfx&confirm=t"
 pip install -r requirements.txt
 streamlit run app.py
 ```
